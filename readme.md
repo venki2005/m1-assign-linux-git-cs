@@ -11,5 +11,5 @@ Git Cheat Sheet
 
 init - initialized a new local git repository
 status - displays state of working directory and staging area
-
+add - stages changes for the next commit
 
