@@ -10,6 +10,6 @@ cat - display file contents
 Git Cheat Sheet
 
 init - initialized a new local git repository
-
+status - displays state of working directory and staging area
 
 
