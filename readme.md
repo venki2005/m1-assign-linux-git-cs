@@ -5,6 +5,7 @@ rm - remove files and directories
 mkdir - create a new directory
 ls - List files and directories
 cat - display file contents
+pwd - prints current working directory path
 
 
 Git Cheat Sheet
