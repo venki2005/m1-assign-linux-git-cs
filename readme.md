@@ -8,6 +8,7 @@ cat - display file contents
 pwd - prints current working directory path
 cp - copies files or directories
 mv - moves or rename files or directories
+chmod - changes file permissions
 
 
 
