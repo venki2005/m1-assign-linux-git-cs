@@ -9,7 +9,7 @@ pwd - prints current working directory path
 cp - copies files or directories
 mv - moves or rename files or directories
 chmod - changes file permissions
-
+head - outputs the first 10 lines of a target text file
 
 
 Git Cheat Sheet
