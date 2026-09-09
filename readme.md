@@ -22,4 +22,4 @@ branch - list or create branches
 checkout - switch to another branch and check it out into your working directory
 clone - retrieve an entire repository from a hosted location via url
 log - show all commits in the current branch's history
-
+git diff - shows the changes between commits, commit and working tree or staged files 
